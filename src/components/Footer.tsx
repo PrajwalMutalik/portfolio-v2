@@ -17,9 +17,6 @@ function Footer() {
         <a href="https://github.com/PrajwalMutalik" target="_blank" rel="noreferrer">
           Prajwal Mutalik
         </a>
-      </p>
-      <p>Built with inspiration from Yuji Sato
-      </p>
     </footer>
   );
 }
