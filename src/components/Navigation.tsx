@@ -62,7 +62,7 @@ function Navigation({parentToChild, modeChange}: any) {
       window.open('https://drive.google.com/file/d/1aZ85jQZyeaUY5cBqizDfk3sRF-lKgM80/view?usp=drivesdk', 'blank');
     }
   else if (section === 'Resume') 
-    { window.open('https://drive.google.com/file/d/1aZ85jQZyeaUY5cBqizDfk3sRF-lKgM80/view?usp=drivesdk', 'blank');}    
+    { window.open('https://drive.google.com/file/d/1abIMnK3Vg6E2ryr0Zr-fLddo1Q7Djfwz/view?usp=drivesdk', 'blank');}    
     else {
       const targetElement = document.getElementById(section);
       if (targetElement) {
