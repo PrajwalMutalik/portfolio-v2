@@ -17,6 +17,7 @@ function Footer() {
         <a href="https://github.com/PrajwalMutalik" target="_blank" rel="noreferrer">
           Prajwal Mutalik
         </a>
+        </p>
     </footer>
   );
 }
